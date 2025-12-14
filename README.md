@@ -11,4 +11,5 @@ A real-world SQL analysis of a modest dataset
 <img width="838" height="521" alt="image" src="https://github.com/user-attachments/assets/3e6797aa-1af1-4498-b534-3b377b5b9731" />
 
 #Outcome
+
 <img width="900" height="602" alt="image" src="https://github.com/user-attachments/assets/9490e0e1-2e72-43fd-a72b-391e124ff9c1" />
