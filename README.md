@@ -1,8 +1,8 @@
 # Intro - Employee-Fraud-SQL
-A real-world SQL analysis of a modest dataset
+A real-world SQL analysis of a small business dataset
 
 
-**#Business Problem****
+**Business Problem**
 
 -In early 3Q24, management of a regional non-profit social services agency received unusually large fuel bills for company cars. 
 
@@ -12,7 +12,7 @@ A real-world SQL analysis of a modest dataset
 
 -Each vehicle is assigned a fuel charge card issued by a national fleet management services company. 
 
-**#Red Flags Signaling Fraud**
+**Red Flags Signaling Fraud**
 
 Glancing at billing statements, we noted several irregularities suggesting fraud, including:
 
@@ -24,13 +24,13 @@ Glancing at billing statements, we noted several irregularities suggesting fraud
 -Multiple purchases made on the same day
 -In-state charges outside normal area of operation
 
-**#Stakeholder Deliverables**
+**Stakeholder Deliverables**
 
 -Identify suspicious transactions 
 -Organize transactions by credit card
 -Deliver results to non-technical stakeholders in Microsoft Excel spreadsheet for review
 
-**#Outcome**
+**Outcome**
 
 -Using  MySQL Workbench, we flagged 350+ suspicious transactions over a two month period totaling ~$35,000. 
 -Of these, 300 transactions totaling $25,000 were deemed fraudulent.
