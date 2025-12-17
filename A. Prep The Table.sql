@@ -27,6 +27,11 @@ SET `Transaction Time` = STR_TO_DATE(`Transaction Time`, '%H:%i:%s');
 ALTER TABLE charges
 MODIFY COLUMN `Transaction Time` TIME;
 
+-- Creates a column to store business hub (New York or Connecticut)
+
+ALTER TABLE charges
+ADD `Hub` TEXT;
+
 -- Following lines of code add extra columns for suspicious activity flags
 
 ALTER TABLE charges
@@ -49,3 +54,6 @@ ADD `Purchase > $100` BOOLEAN;
 
 ALTER TABLE charges
 ADD `Not Unleaded Regular` BOOLEAN;
+
+UPDATE charges
+SET `Hub` = LEFT(`Card Number`,2)
