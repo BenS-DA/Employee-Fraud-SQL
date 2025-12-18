@@ -26,7 +26,7 @@ WHERE
 
 (`Transaction Time` < '06:29:00' 
 OR
-`Transaction Time` > '16:01:00')
+`Transaction Time` > '17:46:00')
 
 ORDER BY
 `Transaction Time` DESC;
