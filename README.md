@@ -42,6 +42,8 @@ Some particularly egregious examples:
 
 • The dataset has been truncated and portions of it have been redacted.
 
+• The dataset covers 2+ months worth of transactions during the Summer of 2024.
+
 <img width="283" height="404" alt="image" src="https://github.com/user-attachments/assets/96554a49-9d9e-4522-a5c8-3cfcbca53045" />
 
 
