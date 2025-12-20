@@ -70,9 +70,9 @@ Some particularly egregious examples:
 
 **Outcome**
 
-• Focusing on New York operations, stakeholders were able to connect fraudulent activity to one employee.
+•  Using MySQL, several hundred transactions totaling ~$25,000 were deemed fraudulent. 
 
-• Using MySQL, 300 transactions totaling ~$25,000 were deemed fraudulent. 
+• Focusing on New York operations, stakeholders were able to connect fraudulent activity to one employee.
 
 • This saved stakeholders from reviewing (potentially) tens of thousands of transactions using a spreadsheet.
 
