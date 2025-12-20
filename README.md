@@ -6,7 +6,7 @@ A real-world SQL analysis of a small business dataset
 
 • In early 3Q24, management of a regional non-profit social services agency received unusually large fuel bills for company cars. 
 
-• These were not explained by swings in fuel prices or additional driving.
+• These were not explained by swings in fuel prices or additional mileage.
 
 • The agency (which operates through two hubs in western Connecticut and northern Westchester County, New York) maintains a fleet of 100-150 vehicles to transport special needs clients.
 
@@ -17,19 +17,21 @@ A real-world SQL analysis of a small business dataset
 
 Glancing at billing statements, we noted several irregularities suggesting fraud, including:
 
+• In-state charges outside normal area of operation
+
 • Out-of-state purchases
 
-• Holiday and weekend purchases
+• Holiday and weekend purchases (with exceptions for certain operations running 24/7)
 
-• Purchases outside of weekday business hours
+• Purchases outside of weekday business hours (most activity is between 7:00 am and 4:30 pm)
 
-• Purchases of other than unleaded regular gasoline
+• Purchases of other than unleaded regular gasoline (sometimes unavoidable when pumps are out of service)
 
-• Charges with unusually high dollar amounts
+• Charges with unusually high dollar amounts (infrequently higher than $100)
 
 • Multiple purchases made on the same day
 
-• In-state charges outside normal area of operation
+
 
 **Single Table - Quick Overview**
 
