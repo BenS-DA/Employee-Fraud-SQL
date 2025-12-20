@@ -1,5 +1,5 @@
 # Intro
-A real-world SQL analysis of a small business dataset
+A real-world SQL analysis of a transaction dataset
 
 
 **Business Problem**
