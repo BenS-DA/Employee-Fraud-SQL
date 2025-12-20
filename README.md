@@ -8,7 +8,7 @@ A real-world SQL analysis of a small business dataset
 
 • These were not explained by swings in fuel prices or additional mileage.
 
-• The agency (which operates through two hubs in western Connecticut and northern Westchester County, New York) maintains a fleet of 100-150 vehicles to transport special needs clients.
+• The agency (which operates through two hubs in western Connecticut and northern Westchester County, New York) maintains a fleet of 100-150 vehicles to transport special needs clients, mostly on weekdays during normal business hours.
 
 • Each vehicle is assigned a fuel charge card issued by a national fleet management services company. 
 
