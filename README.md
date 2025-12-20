@@ -40,7 +40,8 @@ Some particularly egregious examples:
 
 • The dataset has been truncated and portions of it have been redacted.
 
-<img width="283" height="404" alt="image" src="https://github.com/user-attachments/assets/09910846-57a5-46c9-8cf5-b6f9c971815e" />
+<img width="283" height="404" alt="image" src="https://github.com/user-attachments/assets/96554a49-9d9e-4522-a5c8-3cfcbca53045" />
+
 
 
 
