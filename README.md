@@ -58,7 +58,7 @@ Some particularly egregious examples:
 
 **Summary of Initial Findings**
 
-
+•  Stakeholders narrowed their attention to New York hub activity.
 
 
 
