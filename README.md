@@ -43,7 +43,8 @@ Glancing at billing statements, we noted several irregularities suggesting fraud
 
 **Summary of Initial Findings**
 
-<img width="595" height="221" alt="image" src="https://github.com/user-attachments/assets/925afe36-02f2-462a-865c-95155f23e7ae" />
+<img width="595" height="250" alt="image" src="https://github.com/user-attachments/assets/26b4065d-316b-419e-8e3d-36a1cefe7fa7" />
+
 
 
 • Based on regional transaction frequencies and dollar amounts, stakeholders narrowed their investigation to the New York Hub.
