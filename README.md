@@ -31,6 +31,10 @@ Glancing at billing statements, we noted several irregularities suggesting fraud
 
 • In-state charges outside normal area of operation
 
+**Single Table - Quick Overview**
+
+
+
 
 **Stakeholder Deliverables**
 
