@@ -76,11 +76,11 @@ Some particularly egregious examples:
 
 • Stakeholders connected fraudulent activity to one employee.
 
-• MySQL saved stakeholders the time and expense of reviewing potentially tens of thousands of transactions with Microsoft Excel.
-
 • A criminal complaint was filed with local police which resulted in the arrest of the employee.
 
 • Charge card disputes and insurance claims were filed using the data from this analysis.
+
+• MySQL saved stakeholders the time and expense of reviewing potentially tens of thousands of transactions with Microsoft Excel.
 
 • Management tightened controls on company vehicle fuel purchases.
 
