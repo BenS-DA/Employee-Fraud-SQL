@@ -72,7 +72,7 @@ Some particularly egregious examples:
 
 **Outcome**
 
-•  Following stakeholder analysis, several hundred transactions totaling ~$25,000 were deemed fraudulent. 
+•  Following stakeholder analysis, several hundred transactions (over a period of two+ months) totaling ~$25,000 were deemed fraudulent. 
 
 • Stakeholders connected fraudulent activity to one employee.
 
