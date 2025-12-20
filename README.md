@@ -58,12 +58,13 @@ Some particularly egregious examples:
 
 **Summary of Initial Findings**
 
-<img width="590" height="242" alt="image" src="https://github.com/user-attachments/assets/e070758e-a944-4e76-bc9f-da57daeda04f" />
 
 
 
 
-• Based on regional transaction frequencies and dollar amounts, stakeholders narrowed their investigation to the New York Hub.
+
+<img width="590" height="242" alt="image" src="https://github.com/user-attachments/assets/db820f27-65e7-4a99-b92e-d82eaa825c6f" />
+
 
 
 
