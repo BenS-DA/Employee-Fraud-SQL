@@ -12,6 +12,7 @@ A real-world SQL analysis of a small business dataset
 
 • Each vehicle is assigned a fuel charge card issued by a national fleet management services company. 
 
+
 **Red Flags Signaling Fraud**
 
 Glancing at billing statements, we noted several irregularities suggesting fraud, including:
@@ -30,6 +31,7 @@ Glancing at billing statements, we noted several irregularities suggesting fraud
 
 • In-state charges outside normal area of operation
 
+
 **Stakeholder Deliverables**
 
 • Identify suspicious transactions 
@@ -38,19 +40,23 @@ Glancing at billing statements, we noted several irregularities suggesting fraud
 
 • Deliver results to non-technical stakeholders in Microsoft Excel spreadsheet for review
 
-**Summary of Findings**
+
+**Summary of Initial Findings**
 
 <img width="595" height="221" alt="image" src="https://github.com/user-attachments/assets/925afe36-02f2-462a-865c-95155f23e7ae" />
 
+• Based on regional transaction frequencies and dollar amounts, stakeholders deemd that the fraud occurred in the New York Hub.
+
+
 **Outcome**
 
-• Using  MySQL Workbench, we flagged 350+ suspicious transactions over a two month period totaling ~$35,000. 
+• Focusing on New York operations, stakeholders were able to connect fraudulent activity to one employee.
 
-• Of these, 300 transactions totaling $25,000 were deemed fraudulent.
+• Using MySQL, 300 transactions totaling ~$25,000 were deemed fraudulent.
 
-• Charge card dispute and insurance claims were filed using the data from this analysis.
+• A criminal complaint was filed with local police which resulted in the arrest of the employee.
 
-• A criminal complaint was filed with local police which resulted in the arrest of an employee.
+• Charge card disputes and insurance claims were filed using the data from this analysis.
 
 • Management tightened controls on company vehicle fuel purchases.
 
