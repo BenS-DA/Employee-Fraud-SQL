@@ -44,7 +44,7 @@ Glancing at billing statements, we noted several irregularities suggesting fraud
 
 • Organize transactions by credit card
 
-• Deliver results to non-technical stakeholders in Microsoft Excel spreadsheet for review
+• Deliver results to non-technical stakeholders in Microsoft Excel spreadsheet format for review
 
 
 **Summary of Initial Findings**
