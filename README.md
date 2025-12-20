@@ -27,7 +27,7 @@ Glancing at billing statements, we noted several irregularities suggesting fraud
 
 • Purchases of other than unleaded regular gasoline (sometimes unavoidable when pumps are out of service)
 
-• Charges with unusually high dollar amounts (infrequently higher than $100)
+• Charges with unusually high dollar amounts (most are under $100)
 
 • Multiple purchases made on the same day
 
