@@ -36,7 +36,9 @@ Some particularly egregious examples:
 <img width="1021" height="189" alt="image" src="https://github.com/user-attachments/assets/214cae95-4fc4-40ac-abcb-ae50902e8c22" />
 
 
-**Single Table - Quick Overview**
+
+
+**Single Table - Overview**
 
 • The dataset has been truncated and portions of it have been redacted.
 
