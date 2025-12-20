@@ -58,7 +58,8 @@ Some particularly egregious examples:
 
 **Summary of Initial Findings**
 
-<img width="595" height="250" alt="image" src="https://github.com/user-attachments/assets/26b4065d-316b-419e-8e3d-36a1cefe7fa7" />
+<img width="590" height="242" alt="image" src="https://github.com/user-attachments/assets/e070758e-a944-4e76-bc9f-da57daeda04f" />
+
 
 
 
