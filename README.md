@@ -1,4 +1,4 @@
-# Intro - Employee-Fraud-SQL
+# Intro
 A real-world SQL analysis of a small business dataset
 
 
