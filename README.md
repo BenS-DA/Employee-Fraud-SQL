@@ -49,12 +49,16 @@ Glancing at billing statements, we noted several irregularities suggesting fraud
 
 • Based on regional transaction frequencies and dollar amounts, stakeholders narrowed their investigation to the New York Hub.
 
+• Stakeholders determined all Connecticut Hub transactions were legitimate.
+
 
 **Outcome**
 
 • Focusing on New York operations, stakeholders were able to connect fraudulent activity to one employee.
 
-• Using MySQL, 300 transactions totaling ~$25,000 were deemed fraudulent.
+• Using MySQL, 300 transactions totaling ~$25,000 were deemed fraudulent. 
+
+• This saved stakeholders from reviewing tens of thousands of transactions using a spreadsheet.
 
 • A criminal complaint was filed with local police which resulted in the arrest of the employee.
 
