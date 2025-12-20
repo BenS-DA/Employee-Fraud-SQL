@@ -45,6 +45,7 @@ Glancing at billing statements, we noted several irregularities suggesting fraud
 
 <img width="595" height="221" alt="image" src="https://github.com/user-attachments/assets/925afe36-02f2-462a-865c-95155f23e7ae" />
 
+
 • Based on regional transaction frequencies and dollar amounts, stakeholders deemd that the fraud occurred in the New York Hub.
 
 
