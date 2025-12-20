@@ -74,7 +74,7 @@ Some particularly egregious examples:
 
 • Using MySQL, 300 transactions totaling ~$25,000 were deemed fraudulent. 
 
-• This saved stakeholders from reviewing tens of thousands of transactions using a spreadsheet.
+• This saved stakeholders from reviewing (potentially) tens of thousands of transactions using a spreadsheet.
 
 • A criminal complaint was filed with local police which resulted in the arrest of the employee.
 
