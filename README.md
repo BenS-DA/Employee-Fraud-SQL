@@ -40,7 +40,9 @@ Some particularly egregious examples:
 
 **Single Table - Overview**
 
-• The dataset has been truncated and portions of it have been redacted.
+• Raw data file is attached as 'charges.csv'
+
+• The dataset has been cleaned and shortened and portions of it have been redacted.
 
 • The dataset covers 2+ months worth of transactions during the Summer of 2024.
 
@@ -63,9 +65,10 @@ Some particularly egregious examples:
 •  Stakeholders narrowed their attention to New York hub activity.
 
 
+<img width="590" height="301" alt="image" src="https://github.com/user-attachments/assets/cc622a42-3f93-44bb-bc1f-b6a3bfad6b94" />
 
 
-<img width="590" height="242" alt="image" src="https://github.com/user-attachments/assets/db820f27-65e7-4a99-b92e-d82eaa825c6f" />
+
 
 
 
