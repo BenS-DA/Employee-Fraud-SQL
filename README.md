@@ -23,7 +23,7 @@ Glancing at billing statements, we noted several irregularities suggesting fraud
 
 • Holiday and weekend purchases (with exceptions for certain operations running 24/7)
 
-• Purchases outside of weekday business hours (most fleet driving is between 7:00 am and 5:30 pm)
+• Purchases outside of weekday business hours (most fleet driving is between 6:30 am and 5:45 pm)
 
 • Purchases of other than unleaded regular gasoline (sometimes unavoidable when pumps are out of service)
 
