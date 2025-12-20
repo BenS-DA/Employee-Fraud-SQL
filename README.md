@@ -38,6 +38,9 @@ Glancing at billing statements, we noted several irregularities suggesting fraud
 
 • Deliver results to non-technical stakeholders in Microsoft Excel spreadsheet for review
 
+**Summary of Results**
+<img width="595" height="221" alt="image" src="https://github.com/user-attachments/assets/925afe36-02f2-462a-865c-95155f23e7ae" />
+
 **Outcome**
 
 • Using  MySQL Workbench, we flagged 350+ suspicious transactions over a two month period totaling ~$35,000. 
