@@ -53,7 +53,6 @@ Glancing at billing statements, we noted several irregularities suggesting fraud
 
 • Based on regional transaction frequencies and dollar amounts, stakeholders narrowed their investigation to the New York Hub.
 
-• Stakeholders determined all Connecticut Hub transactions were legitimate.
 
 
 **Outcome**
