@@ -38,7 +38,8 @@ Glancing at billing statements, we noted several irregularities suggesting fraud
 
 • Deliver results to non-technical stakeholders in Microsoft Excel spreadsheet for review
 
-**Summary of Results**
+**Summary of Findings**
+
 <img width="595" height="221" alt="image" src="https://github.com/user-attachments/assets/925afe36-02f2-462a-865c-95155f23e7ae" />
 
 **Outcome**
