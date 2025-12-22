@@ -50,7 +50,7 @@ FROM charges
 WHERE `Purchase > $100` = 1 AND `Hub` = 'NY';
 
 SELECT
-COUNT(`Trans ID`) AS 'COUONT: All Suspicious Flags - NY Hub',
+COUNT(`Trans ID`) AS 'COUNT: All Suspicious Flags - NY Hub',
 SUM(`Net Cost`) AS 'SUM: All Suspicous Flags  - NY Hub',
 AVG(`Net Cost`) AS 'AVERAGE: All Suspicous Flags  - NY Hub'
 FROM charges
