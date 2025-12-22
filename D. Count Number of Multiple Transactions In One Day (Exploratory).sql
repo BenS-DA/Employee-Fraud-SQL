@@ -13,6 +13,6 @@
 USE fuel;
 SELECT `Card Number`, DATE(`Transaction Date`) AS transaction_day, COUNT(*) AS transaction_count
 FROM charges
-WHERE `Merchant State / Province` = 'NY'
+WHERE `Hub` = 'NY'
 GROUP BY `Card Number`, DATE(`Transaction Date`)
 HAVING transaction_count > 1; 
